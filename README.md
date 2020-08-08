@@ -3,12 +3,16 @@
 
 ## Subheading
 Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
-![alt text](Police&#32;Shootings&#32;by&#32;Race&#32;2015-2020&#32;(2).png "My Chart!") ![alt text](Race&#32;Percentages&#32;USA&#32;from&#32;2010&#32;Census&#32;Data.png "My Chart!")  
+![alt text](Police&#32;Shootings&#32;by&#32;Race&#32;2015-2020&#32;(2).png "My Chart!")  
 _This is how to italicize_  
 *This is how to bold*  
 Markdown
 :   This would be a definition of Markdown
 
+## Subheading
+Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
+![alt text](Race&#32;Percentages&#32;USA&#32;from&#32;2010&#32;Census&#32;Data.png "My Chart!")  
+>This is a quote  
 
 ## Subheading
 ### Double subheading
@@ -18,10 +22,7 @@ Hey my name is Jason and I am analyzing this really cool data. Take a look at wh
 -This is a list item
 -This too
 
-## Subheading
-Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
-![alt text](Race&#32;Percentages&#32;USA&#32;from&#32;2010&#32;Census&#32;Data.png "My Chart!")  
->This is a quote  
+
 
 This is the pivot table  
 ![alt text](pivotTable.png "My Chart!")  
