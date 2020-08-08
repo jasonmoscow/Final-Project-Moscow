@@ -1,6 +1,10 @@
 # Headline
 >Written by Jason Moscow on August 8th, 2020.
 
+
+## Here is the CSV
+[csvFile](http://example.com "Title")
+
 ## Subheading
 Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
 ![alt text](Police&#32;Shootings&#32;by&#32;Race&#32;2015-2020&#32;(2).png "My Chart!")  
