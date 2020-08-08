@@ -3,7 +3,7 @@
 
 ## Subheading
 Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
-![alt text](chart.png "My Chart!")  
+![alt text](Police Shootings by Race 2015-2020.png.png "My Chart!")  
 _This is how to italicize_  
 *This is how to bold*  
 Markdown
@@ -14,11 +14,11 @@ Markdown
 ### Double subheading
 #### Triple subheading!
 Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
-![alt text](chart.png "My Chart!")  
+![alt text](Police Shootings by Race 2015-2020.png.png "My Chart!")  
 -This is a list item
 -This too
 
 ## Subheading
 Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
-![alt text](chart.png "My Chart!")  
+![alt text](Police Shootings by Race 2015-2020.png.png "My Chart!")  
 >This is a quote
