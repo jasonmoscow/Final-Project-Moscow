@@ -3,7 +3,7 @@
 
 
 ## Here is the CSV
-[csvFile](shootings.csv "Title")
+[Police Shootings from 2015-2020 Raw](shootings.csv "Title")
 
 ## Subheading
 Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
