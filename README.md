@@ -3,7 +3,7 @@
 
 ## Subheading
 Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
-![alt text](Police&#32;Shootings&#32;by&#32;Race&#32;2015-2020&#32;(2).png "My Chart!")  
+![alt text](Police&#32;Shootings&#32;by&#32;Race&#32;2015-2020&#32;(2).png "My Chart!") ![alt text](Race&#32;Percentages&#32;USA&#32;from&#32;2010&#32;Census&#32;Data.png "My Chart!")  
 _This is how to italicize_  
 *This is how to bold*  
 Markdown
