@@ -1,5 +1,5 @@
 # Headline
->Writted by Jason Moscow on August 8th, 2020.
+>Written by Jason Moscow on August 8th, 2020.
 
 ## Subheading
 Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
