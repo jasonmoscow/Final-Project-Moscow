@@ -3,7 +3,7 @@
 
 
 ## Here is the CSV
-[csvFile](http://example.com "Title")
+[csvFile](shootings.csv "Title")
 
 ## Subheading
 Hey my name is Jason and I am analyzing this really cool data. Take a look at what I found here. As you can see,...  
