@@ -7,7 +7,7 @@ Hey my name is Jason and I am analyzing this really cool data. Take a look at wh
 _This is how to italicize_  
 *This is how to bold*  
 Markdown
-: This would be a definition of Markdown
+:   This would be a definition of Markdown
 
 
 ## Subheading
