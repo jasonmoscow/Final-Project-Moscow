@@ -1,8 +1,8 @@
-# Headline
+# Police Shootings 2015-2020
 >Written by Jason Moscow on August 8th, 2020.
 
 
-## Here is the CSV
+## Here is the CSV of the data. I downloaded this data set from Kaggle. The data was collected by the Washington Post. The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since January 1, 2015. In 2015, The Post began tracking more than a dozen details about each killing — including the race of the deceased, the circumstances of the shooting, whether the person was armed and whether the victim was experiencing a mental-health crisis — by culling local news reports, law enforcement websites and social media and by monitoring independent databases such as Killed by Police and Fatal Encounters.I did not clean the data myself. The data was cleaned and reposted by a user named Ashin Nazir. 
 [Police Shootings from 2015-2020 Raw](shootings.csv "Title")
 
 ## Subheading
